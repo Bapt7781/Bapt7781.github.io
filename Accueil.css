@@ -1,0 +1,48 @@
+.BTS_SIO h1 {
+    text-decoration: underline dotted ;
+    color:rgb(181, 0, 0);
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+}
+.BTS_SIO p {
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 15px;
+    text-align: justify;
+}
+.BTS_SIO li {
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 15px;
+    text-align: left justify;
+    margin-left: 30%;
+}
+.BTS_SIO .SIO {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.BTS_SIO .SLAM{
+    margin-left: 15px;
+    margin-right: 800px;
+    margin-top: 30px;
+}
+.BTS_SIO .SISR{
+    margin-right: 15px;
+    margin-left: 800px;
+    margin-top: -245px;
+}
+.BTS_SIO .Pro{
+    margin-left: 15px;
+    margin-right: 800px;
+    margin-top: 120px;
+}
+.BTS_SIO .Scol{
+    margin-right: 15px;
+    margin-left: 800px;
+    margin-top: -193px;
+}
